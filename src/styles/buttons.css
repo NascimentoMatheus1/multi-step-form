@@ -1,0 +1,74 @@
+form button {
+    font-size: inherit;
+    cursor: pointer;
+}
+
+.remove-btn {
+    background-color: #fff;
+    color: #dc2626;
+    padding: 6px 10px;
+    border: 1.5px solid #dc2626;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.remove-btn:hover {
+    background-color: #fee2e2;
+    transform: translateY(-1px);
+}
+
+.save-btn {
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.save-btn:hover {
+    background-color: #2563eb;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+}
+
+.add-btn {
+    background-color: #10b981;
+    color: white;
+    border: none;
+    padding: 10px 28px;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.add-btn:hover {
+    background-color: #059669;
+}
+
+.back-btn,
+.next-btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 4px;
+    border: 1px solid #adafb3;
+    background: white;
+    color: #1c2430;
+    font-size: inherit;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s ease;
+}
+
+.back-btn:hover,
+.next-btn:hover {
+    border-color: #4f73b1;
+    background: #e6edf3;
+}
+

@@ -1,0 +1,85 @@
+.cv-preview {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 1000px;
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cv-preview header {
+    padding: 2rem 4rem;
+}
+
+.cv-preview main {
+    padding: 1rem 2rem;
+    border-radius: 20px;
+    background-color: #f6f7fa;
+}
+
+h1 {
+    font-size: 1.8rem;
+}
+
+.username {
+    font-size: 5rem;
+}
+
+.occupation {
+    font-size: 2rem;
+    letter-spacing: 5px;
+    margin-bottom: 2rem;
+}
+
+.cv-section {
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.cv-section-name {
+    margin-bottom: 1rem;
+    color: #003e92;
+}
+
+.content {
+    border-left: 3px solid #003e92;
+    padding-left: 1rem;
+}
+
+.content p {
+    margin-bottom: 0.5rem;
+}
+
+
+
+.content ul {
+    list-style: none;
+}
+
+.content li {
+    margin-bottom: 2rem;
+}
+
+.contact{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: .5rem;
+}
+
+.content-control {
+    display: flex;
+    align-items: center;
+}
+
+.content-control img {
+    background-color: #003e92;
+    height: 24px;
+    width: 24px;
+    border-radius: 10px;
+    padding: 3px;
+    margin-right: 8px;
+}
+
+.content-control a{
+    text-decoration: none;
+}

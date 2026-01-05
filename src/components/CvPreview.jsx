@@ -1,4 +1,4 @@
-import '../styles/CvPreview.css';
+import '../styles/cvPreview.css';
 import mailSvgSrc from '../assets/mail.svg';
 import callSvgScr from '../assets/call.svg';
 import webSvgScr from '../assets/web.svg';

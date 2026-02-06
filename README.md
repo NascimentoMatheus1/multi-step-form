@@ -1,5 +1,60 @@
-# CV Generator 
-- Live preview 👉 [CLICK HERE](https://multi-step-cv-app.netlify.app/)
+# 📄 CV Generator - React Project
 
-# Objective
-- an interactive web application using React that allows users to build a résumé (CV). Users should be able to input data into specific sections (General Information, Education, and Practical Experience) and submit the form to view the formatted CV. Additionally, the system must allow users to edit the information later, switching between the final document view and the pre-filled form fields.
+**Select your language / Selecione o idioma:**
+* [🇺🇸 English Version](#-english-version)
+* [🇧🇷 Versão em Português](#-versão-em-português)
+
+---
+## 🇧🇷 Versão em Português
+
+# 📄 CV Generator - React Project
+
+Este é um gerador de currículos dinâmico desenvolvido como o primeiro projeto prático do ecossistema React. O objetivo principal é gerenciar estados complexos e componentes reutilizáveis para permitir que usuários criem, editem e visualizem suas informações profissionais em tempo real.
+
+### Live preview 👉 [CLICK HERE](https://multi-step-cv-app.netlify.app/) 
+
+# 🚀 Tecnologias Utilizadas
+- React.js (Functional Components & Hooks)
+- JavaScript (ES6+)
+- CSS3 (Estilização modular)
+- Vite (Build tool)
+
+# 🛠️ Funcionalidades
+- A aplicação está dividida em seções lógicas, cada uma com controle de estado independente:
+- Informações Gerais: Captação de nome, e-mail e telefone.
+- Formação Acadêmica: Registro de instituições, cursos e períodos de estudo.
+- Experiência Profissional: Detalhamento de empresas, cargos, responsabilidades e datas.
+
+# 🧠 Conceitos Aplicados
+- Durante o desenvolvimento, foquei na aplicação de conceitos fundamentais que estou estudando na UFBA:
+- State Management: Uso intenso do useState para alternar entre os modos de edição e persistência de dados.
+- Props: Passagem de funções e dados entre componentes pais e filhos.
+- Lógica Condicional: Renderização de elementos baseada no status de submissão do formulário.
+
+---
+
+## 🇺🇸 English Version
+
+  # 📄 CV Generator - React Project
+
+This is a dynamic resume generator developed as my first practical project within the React ecosystem. The main goal is to manage complex states and reusable components, allowing users to create, edit, and preview their professional information in real-time.
+
+### Live preview 👉 [CLICK HERE](https://multi-step-cv-app.netlify.app/) 
+
+### 🚀 Technologies Used
+- **React.js** (Functional Components & Hooks)
+- **JavaScript** (ES6+)
+- **CSS3** (Modular Styling)
+- **Vite** (Build Tool)
+
+### 🛠️ Features
+The application is divided into logical sections, each with independent state control:
+- **General Information:** Captures name, email, and phone number.
+- **Educational Experience:** Records institutions, degrees, and study periods.
+- **Practical Experience:** Details companies, positions, main responsibilities, and dates.
+
+### 🧠 Key Concepts Applied
+During development, I focused on applying fundamental software engineering concepts that I am currently studying at **UFBA (Federal University of Bahia)**:
+- **State Management:** Extensive use of `useState` to toggle between edit and preview modes while persisting data.
+- **Props:** Passing data and functions between parent and child components.
+- **Conditional Rendering:** Displaying elements based on form submission status for a seamless user experience.

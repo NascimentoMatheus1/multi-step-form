@@ -26,7 +26,7 @@ Este é um gerador de currículos dinâmico desenvolvido como o primeiro projeto
 - Experiência Profissional: Detalhamento de empresas, cargos, responsabilidades e datas.
 
 # 🧠 Conceitos Aplicados
-- Durante o desenvolvimento, foquei na aplicação de conceitos fundamentais que estou estudando na UFBA:
+- Durante o desenvolvimento, foquei na aplicação de conceitos fundamentais:
 - State Management: Uso intenso do useState para alternar entre os modos de edição e persistência de dados.
 - Props: Passagem de funções e dados entre componentes pais e filhos.
 - Lógica Condicional: Renderização de elementos baseada no status de submissão do formulário.
@@ -54,7 +54,7 @@ The application is divided into logical sections, each with independent state co
 - **Practical Experience:** Details companies, positions, main responsibilities, and dates.
 
 ### 🧠 Key Concepts Applied
-During development, I focused on applying fundamental software engineering concepts that I am currently studying at **UFBA (Federal University of Bahia)**:
+During development, I focused on applying fundamental software engineering concepts:
 - **State Management:** Extensive use of `useState` to toggle between edit and preview modes while persisting data.
 - **Props:** Passing data and functions between parent and child components.
 - **Conditional Rendering:** Displaying elements based on form submission status for a seamless user experience.
